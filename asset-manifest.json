@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/met-art-and-palette-gen/static/css/main.e6c13ad2.css",
+    "main.js": "/met-art-and-palette-gen/static/js/main.592eef4f.js",
+    "static/js/453.af4b6d84.chunk.js": "/met-art-and-palette-gen/static/js/453.af4b6d84.chunk.js",
+    "index.html": "/met-art-and-palette-gen/index.html",
+    "main.e6c13ad2.css.map": "/met-art-and-palette-gen/static/css/main.e6c13ad2.css.map",
+    "main.592eef4f.js.map": "/met-art-and-palette-gen/static/js/main.592eef4f.js.map",
+    "453.af4b6d84.chunk.js.map": "/met-art-and-palette-gen/static/js/453.af4b6d84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.592eef4f.js"
+  ]
+}
